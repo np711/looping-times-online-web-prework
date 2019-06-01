@@ -1,4 +1,4 @@
-times do
+do
   puts "Wingardium Leviosa"
 end 
 
