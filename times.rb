@@ -1,5 +1,5 @@
-do
-  puts "Wingardium Leviosa"
+times do
+  puts "Wingardium Leviosa."
 end 
 
 
