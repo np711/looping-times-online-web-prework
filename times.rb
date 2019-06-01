@@ -1,6 +1,7 @@
 times do
   puts "Wingardium Leviosa
-  le
+  Wingardium Leviosa = 
+  Wingardium Leviosa - 
 end 
 
 
