@@ -1,5 +1,5 @@
 times do
-  puts "Wingardium Leviosa."
+  puts "we have # {Wingardium Leviosa."
 end 
 
 
